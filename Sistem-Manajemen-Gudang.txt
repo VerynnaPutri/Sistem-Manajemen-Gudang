@@ -1,0 +1,4 @@
+- Mengelola Barang
+- Mencatat Stok Opname
+- Mengelola Stok Barang
+- Membuat Laporan
