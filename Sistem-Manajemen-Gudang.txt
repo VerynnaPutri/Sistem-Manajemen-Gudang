@@ -5,3 +5,4 @@ Rencana :
 - Mengelola Stok Barang
 - Membuat Laporan
 - Coba branch
+- Coba branch 2
